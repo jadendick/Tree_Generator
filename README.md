@@ -14,3 +14,5 @@ Trees are generated using several parameters and random values. Changing window 
 **Max Height:** Longest chain of branches allowed, trunk is height 0.
 
 **Min Height:** Guarantees branches up to a height, prevents growing tiny trees.
+
+![Example](Images/treeGenerator.png?raw=true "Example")
